@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**abderrahmane-hamadache/Abderrahmane-Hamadache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, je m'appelle Abderrahamane ! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+Je suis un etudiant en premiere année de bachelor IT et je cherche une alternance dans la cybersécurité.
+
+
+## 🛠 Compétences
+Python, HTML, CSS, GIT, Javascript, VM...
+
+
+## Autres sections courantes du profil Github
+👩‍💻 Je travaille actuellement a la Plateforme
+
+🧠 J'apprends actuellement la cybersécurité
+
+👯‍♀️ Je cherche une alternanace en cybersécurité
+
+📫 Comment me joindre par mail: abderrahmane.hamadache@laplateforme.io
+
+
+
+
