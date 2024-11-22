@@ -7,7 +7,7 @@ Je suis un etudiant en premiere année de bachelor IT et je cherche une alternan
 
 
 ## 🛠 Compétences
-Python, HTML, CSS, GIT, Javascript, VM...
+Python, HTML, CSS, SQL, GIT, Javascript, VM...
 
 
 ## Autres sections courantes du profil Github
